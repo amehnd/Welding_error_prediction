@@ -1,8 +1,6 @@
 {
 	"image": "mcr.microsoft.com/devcontainers/universal:2",
 	"features": {
-		"ghcr.io/davzucky/devcontainers-features-wolfi/python:1": {
-			"pythonVersion": "3.12"
-		}
+		"ghcr.io/davzucky/devcontainers-features-wolfi/python:1": {}
 	}
 }
